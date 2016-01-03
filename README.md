@@ -18,6 +18,7 @@ Posts
 - [a practical introduction to functional programming - now with swift!](http://harlankellaway.com/blog/2015/08/10/swift-functional-programming-intro/)
 - [Swift Optionals, Functional Programming, and You](http://www.mokacoding.com/blog/demistifying-swift-functor/)
 - [Reduce all the things](http://appventure.me/2015/11/30/reduce-all-the-things/)
+- [RxMarbls Interactive diagrams of Rx Observables](http://rxmarbles.com/)
 
 Conferences
 ==
