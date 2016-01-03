@@ -14,6 +14,10 @@ Posts
 - [Swift: Six Killer Features](http://ericasadun.com/2015/05/21/swift-six-killer-features/)
 - [Functor and Monad in Swift ](http://www.javiersoto.me/post/106875422394)
 - [Push vs Pull Signal](http://www.fantageek.com/blog/archives/)
+- [Railway oriented programming](http://fsharpforfunandprofit.com/posts/recipe-part2/)
+- [a practical introduction to functional programming - now with swift!](http://harlankellaway.com/blog/2015/08/10/swift-functional-programming-intro/)
+- [Swift Optionals, Functional Programming, and You](http://www.mokacoding.com/blog/demistifying-swift-functor/)
+- [Reduce all the things](http://appventure.me/2015/11/30/reduce-all-the-things/)
 
 Conferences
 ==
@@ -33,6 +37,8 @@ Books
 ==
 
 - [Functional Swift](https://www.objc.io/books/functional-swift/)
+- [Functional Reactive Programming on iOS](https://leanpub.com/iosfrp)
+- [Reactive Programming with Swift](https://www.packtpub.com/application-development/reactive-programming-swift)
 
 Libraries
 ==
