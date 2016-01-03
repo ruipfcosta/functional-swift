@@ -19,6 +19,7 @@ Posts
 - [Swift Optionals, Functional Programming, and You](http://www.mokacoding.com/blog/demistifying-swift-functor/)
 - [Reduce all the things](http://appventure.me/2015/11/30/reduce-all-the-things/)
 - [RxMarbles Interactive diagrams of Rx Observables](http://rxmarbles.com/)
+- [When functional meets Swift — 5 useful libraries for your apps](https://medium.com/@ruipfcosta/when-functional-meets-swift-5-useful-libraries-to-use-on-your-apps-1e10b65e733)
 
 Conferences
 ==
